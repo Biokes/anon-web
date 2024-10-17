@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+ANON is a financial advisory organization dedicated to 
+empowering individuals and businesses with expert financial guidance .
+Our mission is to help clients make informed financial decisions,
+achieve their goals, and build sustainable wealth.
 
-## Getting Started
+At ANON, we offer personalized advice across various domains,
+including budgeting, investment planning, risk management, 
+retirement strategies, and debt restructuring.
+For businesses, our team provides corporate financial consulting, 
+cash flow analysis, strategic growth planning, and financial risk assessment.
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+With a commitment to transparency, professionalism, 
+and tailored solutions, ANON serves as a trusted partner for those 
+seeking to optimize their financial future. Whether you’re an individual 
+planning your next big investment or a firm looking to improve financial
+operations, ANON is here to help you navigate your journey to financial 
+well-being with confidence.
